@@ -1,0 +1,12 @@
+.venv/
+venv/
+.venv_clean/
+venv_clean/
+.env
+.python-version
+.vscode/
+.idea/
+.DS_Store
+OpenFace/
+**/main_frame.py
+**/main_openface.py
